@@ -1,13 +1,17 @@
 ## Home Page
+### About me
+I am blabla 
+### CV
 
 <details>
-  <summary>### About me</summary>
+  <summary>see more</summary>
   
-  I am blabla 
+  - PhD
+  - Master
+  
 </details>
 
 
-### CV
 
 ### Publications
 #### Journal Publi
