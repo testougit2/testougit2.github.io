@@ -1,8 +1,11 @@
 ## Home Page
 
-### About me
+<details>
+  <summary>### About me</summary>
+  
+  I am blabla 
+</details>
 
-I am blabalbla
 
 ### CV
 
